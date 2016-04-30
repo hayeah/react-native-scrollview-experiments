@@ -23,14 +23,13 @@ export class App extends React.Component {
 
 const jss = StyleSheet.create({
   scrollView: {
-    backgroundColor: 'rgba(255,0,0,0.3)'
+    backgroundColor: 'lightgray'
   },
 
   box: {
     width: 300,
     height: 300,
-    borderWidth: 1,
-    borderColor: '#666',
+    backgroundColor: 'gray',
     marginBottom: 10,
   }
 });
