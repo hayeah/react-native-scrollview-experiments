@@ -30,6 +30,8 @@ const jss = StyleSheet.create({
   contentContainerStyle: {
     alignItems: 'center',
     paddingTop: 50,
+    borderWidth: 1,
+    borderColor: 'red',
   },
 
   box: {
