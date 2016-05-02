@@ -1,1 +1,1 @@
-import "./two-scrollviews.js";
+import "./pager-android";

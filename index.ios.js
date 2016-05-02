@@ -1,1 +1,1 @@
-import "./centered-boxes-with-top-padding";
+import "./pager-ios.js";
