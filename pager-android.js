@@ -10,7 +10,6 @@ import {
   Text,
 } from "react-native";
 
-
 export class App extends React.Component {
   render() {
     const windowSize = Dimensions.get("window");
@@ -20,7 +19,6 @@ export class App extends React.Component {
       height: windowSize.height,
     };
 
-    console.log("App#render", fullScreenSize);
     return (
       <ViewPagerAndroid
         style={fullScreenSize}
