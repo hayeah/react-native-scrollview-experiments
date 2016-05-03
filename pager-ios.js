@@ -58,8 +58,6 @@ export class App extends React.Component {
 
 const jss = StyleSheet.create({
   page: {
-    backgroundColor: 'rgba(255,0,0,0.3)',
-
     justifyContent: 'center',
     alignItems: 'center',
   },

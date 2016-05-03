@@ -45,7 +45,6 @@ export class App extends React.Component {
         ]}>
           <Text>Page 3</Text>
         </View>
-
       </ViewPagerAndroid>
     );
   }
